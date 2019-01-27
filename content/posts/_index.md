@@ -1,8 +1,8 @@
 ---
-title: "Posts"
+title: "Blog"
 description: ""
 images: []
-draft: true
+draft: false
 menu: main
-weight: 0
+weight: 2
 ---

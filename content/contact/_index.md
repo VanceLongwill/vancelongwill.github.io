@@ -1,8 +1,8 @@
 ---
 title: "Contact"
-description: ""
+description: "Send me a message!"
 images: []
-draft: true
+draft: false
 menu: main
-weight: 0
+weight: 4
 ---

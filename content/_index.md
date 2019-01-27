@@ -2,13 +2,10 @@
 title: "Home"
 description: ""
 images: ["boat-code.jpg"]
-draft: true
+draft: false
 menu: main
-weight: 0
+weight: 1
 ---
 
-# Vance Longwill
-## Freelance full stack developer
-
-
-Lorem Ipsum
+# Terrassa
+## The Hugo theme for you. Or for your company.
