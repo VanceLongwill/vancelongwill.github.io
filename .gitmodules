@@ -1,4 +1,4 @@
 
 [submodule "themes/terrassa"]
 	path = themes/terrassa
-	url = git@github.com:VanceLongwill/hugo-terrassa-theme.git
+	url = https://github.com/VanceLongwill/hugo-terrassa-theme.git
