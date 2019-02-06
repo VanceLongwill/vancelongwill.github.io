@@ -2,7 +2,7 @@
 title: "Blog"
 description: ""
 images: []
-draft: false
+draft: true
 menu: main
 weight: 2
 ---

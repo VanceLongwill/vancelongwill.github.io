@@ -1,7 +1,7 @@
 ---
 title : "Simple Choices"
 description: ""
-draft: false
+draft: true
 weight: 2
 ---
 
