@@ -1,37 +1,37 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-gb"
-title = "My New Hugo Site"
+title = "Vance Longwill"
 theme = "terrassa"
-
 baseurl = "/"
 author = "Vance Longwill"
 # googleAnalytics = ""
 language = "en-gb"
+
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico" # Relative URL
     logo = "" # Absolute URL
 
 [params.hero]
-    textColor = "" # Empty for default color
+    textColor = "white" # Empty for default color
 
-[params.cta] # Call To Action 
+[params.cta] # Call To Action
     show = true
-    cta = "Contact"
+    cta = "Hire me now"
     link = "contact" # Relative URL
 
 [params.form] # Contact form
     netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/your@email.com"
+    action = "https://formspree.io/vancelongwill@gmail.com"
     method = "POST"
     inputNameName = "name"
-    inputNameLabel = "Name"
+    inputNameLabel = "Your name"
     inputNamePlaceholder = "Your name"
     inputEmailName = "email"
-    inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Your email"
+    inputEmailLabel = "Your email address"
+    inputEmailPlaceholder = "example@email.com"
     inputMsgName = "message"
-    inputMsgLabel = "Write something"
+    inputMsgLabel = "Your message"
     inputMsgLength = 750
     inputSubmitValue = "Send"
 
@@ -39,29 +39,30 @@ language = "en-gb"
     showAuthor = true
     showDate = true
     showTags = true
-    dateFormat = "Monday, Jan, 2006"
+    dateFormat = "Monday, Jan 2, 2006"
 
 [params.contact] # Contact info
-    email = "example@gmail.com"
-    phone = "xxx xxx xxx"
+    email = ""
+    phone = ""
     skype = ""
-    address = "419 Creek St. Revere, MA 02151"
+    address = ""
 
 [params.social] # Social networks
-    twitter = "https://twitter.com/john"
-    facebook = "https://facebook.com/john"
-    github = "https://github.com/john"
-    gitlab = ""
-    codepen = "https://codepen.io/john"
-    instagram = "https://instagram.com/john"
-    pinterest = ""
-    youtube = ""
-    linkedin = ""
-    weibo = ""
-    mastodon = ""
-    tumblr = ""
-    flickr = ""
-    "500px" = ""
+    # twitter = "https://twitter.com/vancelongwill"
+    # facebook = "https://facebook.com/john"
+    github = "https://github.com/vancelongwill"
+    gitlab = "http://gitlab.com/VanceLongwill"
+    # codepen = "https://codepen.io/john"
+    # instagram = "https://instagram.com/vancelongwill"
+    # pinterest = ""
+    # youtube = ""
+    linkedin = "http://linkedin.com/in/vancelongwill/"
+    # weibo = ""
+    # mastodon = ""
+    # tumblr = ""
+    # flickr = ""
+    # "500px" = ""
+    medium = "https://medium.com/@vancelongwill"
 
 [params.copy] # Copyright
     copy = "" # Empty for default content
