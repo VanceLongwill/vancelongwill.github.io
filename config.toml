@@ -8,8 +8,8 @@ author = "Vance Longwill"
 language = "en-gb"
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
-    favicon = "favicon.ico" # Relative URL
+    description = "Articles & more"
+    favicon = "images/logo.png" # Relative URL
     logo = "" # Absolute URL
 
 [params.hero]
