@@ -5,8 +5,6 @@ author: "Vance Longwill"
 draft: false
 ---
 
-## VIM cheatsheet
-
 ### Navigation
 
 - relative line numbers `:set relativenumber` to allow quick navgation with number+`j`/`k`
