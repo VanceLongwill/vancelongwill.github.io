@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-description: ""
+description: "Arcticles drawing from my experience as a developer and a human"
 images: []
-draft: true
+draft: false
 menu: main
 weight: 2
 ---
