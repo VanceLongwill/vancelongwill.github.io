@@ -1,6 +1,7 @@
 ---
 title: "Why Use Vim"
 description: "Reasons to use VIM"
+author: "Vance Longwill"
 date: 2019-02-08T12:26:37+03:00
 tags: ["vim", "developer tools"]
 draft: false

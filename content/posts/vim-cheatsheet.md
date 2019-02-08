@@ -1,6 +1,7 @@
 ---
 title: "Vim Cheatsheet"
 date: 2019-02-08T12:25:49+03:00
+author: "Vance Longwill"
 draft: false
 ---
 

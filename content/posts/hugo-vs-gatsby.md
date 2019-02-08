@@ -1,6 +1,7 @@
 ---
 title: "Hugo vs Gatsby"
 date: 2019-02-08T12:24:32+03:00
+author: "Vance Longwill"
 draft: false
 ---
 
@@ -84,4 +85,7 @@ For a personal site however, it was more important to me that I could easily pub
 
 All said and done, in terms of picking a clear winner, it's just too close to call. For small blogs, personal sites, landing pages and similar projects, I'd definitely choose Hugo. Anything more interactive and stateful might benefit from the component based architecture in React and Gatsby.
 
+___ 
+
+This site was build with Hugo, you can find the source code [here](https://github.com/VanceLongwill/vancelongwill.github.io).
 
